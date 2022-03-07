@@ -10,13 +10,13 @@ The app comes with a GUI that allows you to choose different options of download
 This app was made as part of a team project (team 56) for the undergraduate course "Intro to Computers".
 
 We used these python libraries: 
-os
-os.path
-tkinter
-tkinter.ttk
-requests
-urllib.request
-functools 
-bs4
-threading
-PIL 
+os,
+os.path,
+tkinter,
+tkinter.ttk,
+requests,
+urllib.request,\n
+functools,
+bs4,
+threading,
+PIL, 
