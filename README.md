@@ -15,8 +15,8 @@ os.path,
 tkinter,
 tkinter.ttk,
 requests,
-urllib.request,\n
+urllib.request,
 functools,
 bs4,
 threading,
-PIL, 
+PIL
